@@ -14,7 +14,7 @@
 
 ## 1. Hardware spec (từ `00-setup/detect-hardware.py`)
 
-- **OS:** Windows 10
+- **OS:** Windows 11
 - **CPU:** Intel Core i5-10500H
 - **Cores:** 6 physical / 12 logical
 - **CPU extensions:** AVX2
