@@ -4,8 +4,10 @@
 
 ---
 
-**Họ Tên:** Học viên
+**Họ Tên:** Nguyễn Duy Hưng
+
 **Cohort:** A20
+
 **Ngày submit:** 2026-05-06
 
 ---
